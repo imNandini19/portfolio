@@ -2,6 +2,10 @@
 
 A modern, responsive portfolio website showcasing my work in Machine Learning, AI, and Full Stack Development.
 
+## 🌐 Live Demo
+
+**[View Live Portfolio](https://6991bda8be9967cec172d7d7--fastidious-naiad-e0de7b.netlify.app/)**
+
 ## 🚀 Features
 
 - **Animated Neural Network Background** - Interactive background with moving nodes and connections
